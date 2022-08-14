@@ -1,10 +1,16 @@
 ### Oi, sou Kennet Soto 
 
-- Sou estudante de Analise e Desenvolvimento de Sistemas.
+<p>Sou estudante de Analise e Desenvolvimento de Sistemas.</p>
 
-<div>
+
+  
+   [![Profile](https://raw.githubusercontent.com/KennetSoto/KennetSoto/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+   
+ <p>Contatos:</p>
+ <div>
 <a href="https://br.linkedin.com/in/kennet-soto-b898868a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br>
+
 
 <div align="center">
   <a href="https://github.com/KennetSoto"></a>
