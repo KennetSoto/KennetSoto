@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/KennetSoto/KennetSoto/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
-```
-
-    
