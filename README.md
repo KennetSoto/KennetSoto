@@ -1,6 +1,6 @@
 ### Oi, sou Kennet Soto 
 
-<p>Sou estudante de Analise e Desenvolvimento de Sistemas.</p>
+<p>Sou formado em Analise e Desenvolvimento de Sistemas e atualmente faço Pós em Data Science e Inteligencia Artificial.</p>
 
 
   
